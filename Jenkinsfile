@@ -1,5 +1,5 @@
 pipeline {
-    agent { label 'tutoLC' }
+    agent { label 'tuto' }
     
 
     stages {
